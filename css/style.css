@@ -230,11 +230,11 @@ button {
   background-color: #f8f9fa!important;
 }
 .header_left{
-    width: 50%;
+    width: 55%;
     float: left;
 }
 .header_right{
-    width: 50%;
+    width: 45%;
     float: left; 
 }
 .banner_img{
